@@ -8,5 +8,7 @@
 
 
 *Creado por platzi team
+*Inclute ejemplos en windos
+
 
 aprende Git y GitHub en [Platzi](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "platzi")
